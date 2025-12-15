@@ -24,10 +24,16 @@ Fullstack Engineer • WordPress Developer • Tech Entrepreneur
 
 ## 🚀 About Me
 
-* 🧠 **5+ years of professional experience** building scalable web applications
-* 💻 Strong background in **Frontend, Backend, DevOps & WordPress**
-* 🌍 Passionate about **Africa-focused fintech, proptech & SaaS solutions**
-* 🧩 I enjoy turning **complex problems into elegant digital products**
+I am a **Fullstack Engineer and Tech Entrepreneur** with over **5 years of hands-on experience** building scalable, secure, and user-focused digital products. My work spans **fintech, e-commerce, govtech, proptech, and SaaS**, with a strong focus on solving **real-world African problems through technology**.
+
+I have led and contributed to projects that handle **payments, crypto transactions, cross-border commerce, government inventory systems, and student-focused platforms**, working across the entire stack — from intuitive user interfaces to robust backend systems and cloud infrastructure.
+
+Beyond engineering, I actively build and advise **startup products**, combining technical execution with product thinking, business logic, and long-term scalability. I value **clean architecture, performance, security, and maintainability**, and I enjoy turning complex ideas into reliable production systems.
+
+* 🧠 **5+ years** building production-grade web applications
+* ⚙️ Strong across **Frontend, Backend, DevOps & WordPress** ecosystems
+* 🌍 Focused on **Africa-centric solutions with global standards**
+* 🚀 Startup builder with real-world deployment experience
 * 💼 Open to **full-time roles, contracts, and high-impact collaborations**
 
 > 💡 *"Bringing your imagination into reality"*
